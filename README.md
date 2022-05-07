@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# Using Dijkstra Algorithm in a Graph Data Structure
+# Dijkstra Algorithm - Graph
 
 ![](https://img.shields.io/badge/Autor-Welington%20Larsen-brightgreen)
 </div> 

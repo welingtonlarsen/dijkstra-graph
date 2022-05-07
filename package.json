@@ -1,0 +1,12 @@
+{
+  "name": "dijkstras-algorithm",
+  "version": "1.0.0",
+  "description": "A1 - IA",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
